@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Math-Computer Science, University of California, San Diego, 2018
+* B.S. in Management Science, University of California, San Diego, 2019
+* M.S. in Industrial Engineering, Texas A&M University, 2024
+* Ph.D in Industrial Engineering, Texas A&M University, 2027 (expected)
 
 Work experience
 ======
